@@ -1,0 +1,4 @@
+C:\Users\110094.SPINOZA.003\source\repos\Wolf en auto machine learning echt\obj\Debug\netcoreapp3.1\Wolf en auto machine learning echt.csprojAssemblyReference.cache
+C:\Users\110094.SPINOZA.003\source\repos\Wolf en auto machine learning echt\obj\Debug\netcoreapp3.1\Wolf en auto machine learning echt.csproj.CoreCompileInputs.cache
+C:\Users\110094.SPINOZA.003\source\repos\Wolf en auto machine learning echt\obj\Debug\netcoreapp3.1\Wolf en auto machine learning echt.AssemblyInfoInputs.cache
+C:\Users\110094.SPINOZA.003\source\repos\Wolf en auto machine learning echt\obj\Debug\netcoreapp3.1\Wolf en auto machine learning echt.AssemblyInfo.cs
